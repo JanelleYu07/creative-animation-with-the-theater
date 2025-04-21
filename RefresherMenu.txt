@@ -1,0 +1,4 @@
+Mango Dragon Drink, 5.00, 6.00, 7.00
+Strawberry Acai, 5.00, 6.00, 7.00
+Pink Drink, 5.00, 6.00, 7.00
+Dragon Drink, 5.00, 6.00, 7.00

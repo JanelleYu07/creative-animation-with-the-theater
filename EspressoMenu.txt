@@ -1,0 +1,9 @@
+Caffe Latte, 5.00, 6.00, 7.00
+Caffe Mocha, 5.00, 6.00, 7.00
+White Chocolate Mocha, 5.00, 6.00, 7.00
+Caramel Machiatto, 5.00, 6.00, 7.00
+Cappuccino, 5.00, 6.00, 7.00
+Caffe Americano, 4.00, 5.00, 6.00
+Hot Chocolate, 4.00, 5.00, 6.00
+Flavor Shot, 1.00, N/A, N/A
+Espresso Shot, 3.00, N/A, N/A
